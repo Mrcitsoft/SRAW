@@ -1,0 +1,29 @@
+/* src/components/Voting.css */
+
+.voting {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.voting p {
+  margin-bottom: 10px;
+}
+
+.voting button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #4a90e2;
+  color: white;
+  font-size: 1em;
+}
+
+.voting button:hover {
+  background-color: #357ab7;
+}
+
+.voting button.active {
+  background-color: #2c6fa6;
+}

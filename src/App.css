@@ -1,0 +1,26 @@
+/* src/App.css */
+
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  display: flex;
+  padding: 20px;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.scam-details-wrapper {
+  margin-bottom: 20px;
+}
+
+.scam-cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

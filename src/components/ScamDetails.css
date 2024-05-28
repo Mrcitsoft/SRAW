@@ -1,0 +1,36 @@
+/* src/components/ScamDetails.css */
+
+.scam-details {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.scam-details h1 {
+  color: #333;
+}
+
+.scam-details p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.map {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.media {
+  display: flex;
+  gap: 10px;
+}
+
+.media img {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  object-fit: cover;
+}

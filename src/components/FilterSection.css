@@ -1,0 +1,25 @@
+/* src/components/FilterSection.css */
+
+.filter-section {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.filter-section h3 {
+  margin-top: 0;
+}
+
+.filter-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.filter-section li {
+  margin: 5px 0;
+}
+
+.slider {
+  width: 100%;
+}

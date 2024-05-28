@@ -1,0 +1,25 @@
+/* src/components/ShareOptions.css */
+
+.share-options {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.share-options p {
+  margin-bottom: 10px;
+}
+
+.share-options button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #4a90e2;
+  color: white;
+  font-size: 1em;
+}
+
+.share-options button:hover {
+  background-color: #357ab7;
+}
